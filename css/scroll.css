@@ -20,6 +20,7 @@
 .jspContainer {
 	overflow: hidden;
 	position: relative;
+	height: 50px;
 }
 .jspPane {
 	position: absolute;
